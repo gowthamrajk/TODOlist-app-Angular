@@ -1,0 +1,21 @@
+.box1 {
+  margin-top: 25px;
+  padding: 20px;
+  width: 300px;
+  border-radius: 3px;
+  height: 190px;
+  background-color: rgb(17, 17, 90);
+  margin-bottom: 10px;
+}
+p {
+  font-size: 17px;
+}
+button {
+  margin-top: 10px;
+}
+.white {
+  color: white;
+}
+li {
+  list-style: none;
+}
